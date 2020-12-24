@@ -4,5 +4,3 @@ Yes
 How are you?
 Fine
 Thanks
-The last sentence 
------------------
